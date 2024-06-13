@@ -83,4 +83,5 @@ public class GameManagerScript : MonoBehaviour
             }
         }
     }
+    //Š®—¹
 }
